@@ -1,0 +1,22 @@
+h1 {
+  color: #3fa796;
+  text-align: center;
+}
+h2 {
+  color: #36ad9a;
+  text-align: center;
+}
+h3 {
+  color: #3fa796;
+  text-align: center;
+}
+body {
+  background-color: #d9f8ea;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #94daff;
+  border-width: 7px;
+  width: 20%;
+}
